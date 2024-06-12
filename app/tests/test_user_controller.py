@@ -7,7 +7,7 @@ def new_customer():
         "email": "test@example.com",
         "password": "testpassword",
         "phone": "1234567890",
-        "role": "customer",
+        "roles": ["customer"],
     }
 
 
